@@ -11,16 +11,16 @@ Departments include:
 - Development
 - Accounting
 - If no department is selected, it is left blank in the email address.
-'
+
 Generates a random password for each new user.
 
 Includes set methods to:
--Set password
--Set mailbox capacity
--Set an alternate email address
+- Set password
+- Set mailbox capacity
+- Set an alternate email address
 
 Show info includes:
--Display the user's name
--Display the generated company email
--Display generated password
--Display mailbox capacity
+- Display the user's name
+- Display the generated company email
+- Display generated password
+- Display mailbox capacity
