@@ -2,7 +2,7 @@
 
 Application Features:
 
-User enters the anme and would be asked to put the dept name and the info will be shown.
+The user will be asked to enter their name and dept name; the info of their email administration will be shown.
 
 Generates a company email ID using the syntax: firstname.lastname.department@company.com
 
